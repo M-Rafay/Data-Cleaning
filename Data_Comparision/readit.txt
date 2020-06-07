@@ -1,0 +1,8 @@
+understand and work on that
+Hello, I am looking for help in running excel comparison for my assignment. Basically, I have one main excel file and need to compare it with two sub-files, both sub files have subset of column from main file. I will need to compare the both files again master file and find difference where it exist and get it into another excel file or in some readable text format as output. Let me know if you're interested in assignment. Thanks,
+
+
+
+
+
+compare the both files against master file and find difference , where it exist and i got it into a readable text format as output.
